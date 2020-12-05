@@ -1,0 +1,222 @@
+    1  cd
+    2  ls
+    3  Desktop
+    4  ls
+    5  cs
+    6  cd
+    7  ls
+    8  cd Recent?
+    9  cd Recent/
+   10  ls
+   11  manav@DESKTOP-576D5VC MINGW64 ~
+   12  $ cd
+   13  manav@DESKTOP-576D5VC MINGW64 ~
+   14  $ ls
+   15  '3D Objects'/
+   16   AppData/
+   17  'Application Data'@
+   18   Autodesk/
+   19   Contacts/
+   20   Cookies@
+   21   Desktop/
+   22   Documents/
+   23   Downloads/
+   24   Favorites/
+   25   Links/
+   26  'Local Settings'@
+   27   Music/
+   28  'My Documents'@
+   29   NTUSER.DAT
+   30   NTUSER.DAT{e501ef70-0995-11ea-9427-005056c00005}.TxR.0.regtrans-ms
+   31   NTUSER.DAT{e501ef70-0995-11ea-9427-005056c00005}.TxR.1.regtrans-ms
+   32   NTUSER.DAT{e501ef70-0995-11ea-9427-005056c00005}.TxR.2.regtrans-ms
+   33   NTUSER.DAT{e501ef70-0995-11ea-9427-005056c00005}.TxR.blf
+   34   NTUSER.DAT{e501ef71-0995-11ea-9427-005056c00005}.TM.blf
+   35   NTUSER.DAT{e501ef71-0995-11ea-9427-005056c00005}.TMContainer00000000000000000001.regtrans-ms
+   36   NTUSER.DAT{e501ef71-0995-11ea-9427-005056c00005}.TMContainer00000000000000000002.regtrans-ms
+   37   NetHood@
+   38   OneDrive/
+   39  'OneDrive - mitt.ca'/
+   40   Pictures/
+   41   PrintHood@
+   42   Recent@
+   43   Roaming/
+   44  'Saved Games'/
+   45   Searches/
+   46   SendTo@
+   47  'Start Menu'@
+   48   Templates@
+   49   Videos/
+   50   ansel/
+   51   ntuser.dat.LOG1
+   52   ntuser.dat.LOG2
+   53   ntuser.ini
+   54  'opera autoupdate'/
+   55  ls
+   56  ls
+   57  mkdir initDemo && initDemo
+   58  mkdir initDemo && cd initDemo
+   59  cd initDEmo
+   60  cd initDemo
+   61  cd Desktop
+   62  ../
+   63  cd ../
+   64  cd initDemo
+   65  ls -la
+   66  git init
+   67  open .git
+   68  explorer.exe .git
+   69  man ls
+   70  man rm
+   71  config
+   72  rm -rf .git
+   73  git init
+   74  explorer.exe
+   75  rm .git
+   76  rm -r .git
+   77  git init
+   78  git init
+   79  ls
+   80  ls
+   81  ls -la
+   82  rm -r git
+   83  rm -r .got
+   84  rm -r .git
+   85  ls -la
+   86  git init
+   87  rm -r .git
+   88  clear
+   89  history
+   90  11
+   91  11
+   92  !
+   93  !
+   94  !
+   95  git init
+   96  clear
+   97  exec bash
+   98  history
+   99  clear
+  100  exec
+  101  history
+  102  cleart
+  103  cleat
+  104  clear
+  105  git status
+  106  touch file1.txt
+  107  cat file1.txt
+  108  file1.txt
+  109  rm file1.txt
+  110  ls
+  111  touch file1.txt file2.txt file3.txt
+  112  ls
+  113  git status
+  114  git add
+  115  git add file1.txt
+  116  git status
+  117  git aff file*.txt
+  118  git status
+  119  git file*.txt
+  120  git add file*.txt
+  121  git status
+  122  ls
+  123  ls -l
+  124  ls -la
+  125  git commot -m 'commit message'
+  126  git commit -m 'commit message'
+  127  git config user.dhruval
+  128  config
+  129  cat user
+  130  less file1.txt
+  131  code .
+  132  npm -v
+  133  npm -v
+  134  cd manav@DESKTOP-576D5VC/DESKTOP/shopping-cart
+  135  cd manav@DESKTOP-576D5VC/DESKTOP
+  136  cd
+  137  cd
+  138  mkdir shop
+  139  cd C:\Users\manav.DESKTOP-576D5VC\DESKTOP
+  140  bash
+  141  echo "# shopping-cart" >> README.md
+  142  git init
+  143  git add README.md
+  144  git commit -m "first commit"
+  145  git branch -M main
+  146  git remote add origin https://github.com/Dhruval2902/shopping-cart.git
+  147  git push -u origin main
+  148  git add .
+  149  git commit -m "added all files"
+  150  git push
+  151  git mv css src
+  152  git mv images src
+  153  git mv js src
+  154  git status
+  155  git commit -m 'moved files to src/'
+  156  git status
+  157  git push
+  158  code .
+  159  npm init
+  160  npm i --save-dev gulp
+  161  npm i
+  162  gulp
+  163  gti status
+  164  git status
+  165  git add .
+  166  git reset --soft main`1
+  167  q
+  168  it 
+  169  ;
+  170  history
+  171  gulp
+  172  gulp scripts
+  173  gulp styles
+  174  gulp html
+  175  git log
+  176  git log
+  177  git status
+  178  git reset --soft Head~1
+  179  git status
+  180  history
+  181  git status
+  182  git add .
+  183  git status
+  184  git commit -m "add gitignore"
+  185  git status 
+  186  history
+  187  git branch
+  188  git branch -C colour-change
+  189  git branch
+  190  git status
+  191  git diff
+  192  git branch -C new-feature
+  193  git status
+  194  git add .
+  195  git commit -m "added 3 colors"
+  196  git status
+  197  git branch -C new-feature
+  198  git branch
+  199  less css.js
+  200  git status
+  201  git add .
+  202  git commit -m "added alert feature"
+  203  git --merge
+  204  git merge colour-change
+  205  git merge new-feature
+  206  git branch
+  207  git rm colour-change
+  208  git rm -rf colour-change
+  209  git rm new-feature
+  210  git push
+  211  git branch -d new-feature
+  212  gti branch -D new-feature
+  213  git branch -D new-feature
+  214  git branch -D colour-change
+  215  git push
+  216  git branch
+  217  git status
+  218  git push
+  219  git status
+  220  git pull
+  221  git reset --soft Head~1
+  222  history >> history.txt
