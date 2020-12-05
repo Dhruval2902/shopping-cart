@@ -1,9 +1,7 @@
 const { src, dest, series, parallel } = require("gulp");
 const del = require("del");
-const postcss = require("gulp-postcss");
 const uglify = require("gulp-uglify");
 const imagemin = require("gulp-imagemin");
-const cssnano = require("cssnano");
 const concat = require("gulp-concat");
 const sourcemaps = require("gulp-sourcemaps");
 
@@ -22,12 +20,10 @@ function scriptsTask() {
 }
 
 function stylesTask() {
-  return src("src/css/*.css")
-    .pipe(sourcemaps.init())
-    .pipe(postcss([cssnano()]))
-    .pipe(sourcemaps.write())
-    .pipe(concat("all.css"))
-    .pipe(dest("dist/css/"));
+  return src('src/css/*.css')
+    .pipe(cleanCSS({ compatibility: 'ie8' }))
+    .pipe(concatCss('bundle.css'))
+    .pipe(dest('dist/css'));
 }
 
 function imagesTask() {

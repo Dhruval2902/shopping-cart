@@ -33,7 +33,7 @@ img {
 }
 
 nav {
-  background-color: #006d5d;
+  background-color: red;
   padding: 15px;
   color: white;
   text-align: right;
@@ -60,7 +60,7 @@ nav {
   top: 37px;
   background: #006d5d;
   padding: 20px;
-  border: 1px solid white;
+  border: 1px blue;
   text-align: left;
 }
 
@@ -76,7 +76,7 @@ nav {
 }
 
 .cart-inner #delete {
-  color: #8f0808;
+  color: pink;
   cursor: pointer;
 }
 
