@@ -78,4 +78,5 @@ ul.onclick = function (event) {
     totalAmount.innerHTML = `$${currentCart.total()}`;
     currentCardNumber.innerHTML = `You have ${currentCart.cartCourses.length} items in your cart`;
   }
+  alert("you have succesfully added to the cart");
 };
